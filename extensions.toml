@@ -65,7 +65,7 @@ version = "0.0.2"
 
 [ansible]
 submodule = "extensions/ansible"
-version = "0.1.1"
+version = "0.1.2"
 
 [anya]
 submodule = "extensions/anya"
@@ -630,7 +630,7 @@ version = "0.1.3"
 
 [ezio-theme]
 submodule = "extensions/ezio-theme"
-version = "0.0.3"
+version = "0.0.6"
 
 [fiber-snippets]
 submodule = "extensions/fiber-snippets"
@@ -950,7 +950,7 @@ version = "0.0.1"
 
 [java]
 submodule = "extensions/java"
-version = "6.0.3"
+version = "6.0.4"
 
 [java-eclipse-jdtls]
 submodule = "extensions/java-eclipse-jdtls"
@@ -1154,7 +1154,7 @@ version = "0.0.4"
 
 [marksman]
 submodule = "extensions/marksman"
-version = "0.0.3"
+version = "0.0.5"
 
 [martianized]
 submodule = "extensions/martianized"
@@ -1198,11 +1198,11 @@ version = "0.0.2"
 
 [mcp-server-context7]
 submodule = "extensions/mcp-server-context7"
-version = "0.0.2"
+version = "0.0.3"
 
 [mcp-server-exa-search]
 submodule = "extensions/mcp-server-exa-search"
-version = "0.0.1"
+version = "0.0.2"
 
 [mcp-server-figma]
 submodule = "extensions/mcp-server-figma"
@@ -1218,7 +1218,7 @@ version = "0.0.3"
 
 [mcp-server-gitlab]
 submodule = "extensions/mcp-server-gitlab"
-version = "0.0.2"
+version = "0.0.3"
 
 [mcp-server-grafana]
 submodule = "extensions/mcp-server-grafana"
@@ -1275,6 +1275,10 @@ version = "0.2.1"
 [mnemonic]
 submodule = "extensions/mnemonic"
 version = "0.0.1"
+
+[modern-icons]
+submodule = "extensions/modern-icons"
+version = "0.2.0"
 
 [modest-dark]
 submodule = "extensions/modest-dark"
@@ -2051,7 +2055,7 @@ version = "0.0.2"
 
 [svelte]
 submodule = "extensions/svelte"
-version = "0.2.7"
+version = "0.2.8"
 
 [svelte-snippets]
 submodule = "extensions/svelte-snippets"
@@ -2059,7 +2063,7 @@ version = "0.0.3"
 
 [swift]
 submodule = "extensions/swift"
-version = "0.4.0"
+version = "0.4.1"
 
 [symbols]
 submodule = "extensions/symbols"
@@ -2162,6 +2166,10 @@ version = "0.0.2"
 [tsarcasm]
 submodule = "extensions/tsarcasm"
 version = "0.0.9"
+
+[tsgo]
+submodule = "extensions/tsgo"
+version = "0.0.1"
 
 [turtle]
 submodule = "extensions/turtle"
@@ -2419,6 +2427,10 @@ version = "0.1.0"
 [yue-theme]
 submodule = "extensions/yue-theme"
 version = "1.2.1"
+
+[yugen]
+submodule = "extensions/yugen"
+version = "0.0.1"
 
 [zed-legacy-themes]
 submodule = "extensions/zed-legacy-themes"
